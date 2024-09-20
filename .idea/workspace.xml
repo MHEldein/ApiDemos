@@ -4,25 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73a6c128-7310-4667-8e01-ec43753b8185" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/t.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AppDemos/AccessibilityPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AppDemos/AnimationPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AppDemos/AppPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AppDemos/ContentPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AppDemos/GraphicsPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AppDemos/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/AppDemos/MediaPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/AppDemos/HomePageTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Base/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    <list default="true" id="73a6c128-7310-4667-8e01-ec43753b8185" name="Changes" comment="creating test for ApiDemos app">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
@@ -69,7 +57,7 @@
     "TestNG.HomePageTests.testNavToContent.executor": "Run",
     "TestNG.HomePageTests.testNavToGraphics.executor": "Run",
     "TestNG.HomePageTests.testNavToMedia.executor": "Run",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "ApiDemos",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "/Users/mahmoudhossam/IdeaProjects/ApiDemos/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
@@ -294,7 +282,31 @@
       <option name="presentableId" value="Default" />
       <updated>1726843142278</updated>
     </task>
+    <task id="LOCAL-00001" summary="creating test for ApiDemos app">
+      <option name="closed" value="true" />
+      <created>1726865915127</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726865915127</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="creating test for ApiDemos app" />
+    <option name="LAST_COMMIT_MESSAGE" value="creating test for ApiDemos app" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
