@@ -12,7 +12,8 @@ public class GraphicsPage {
         this.driver=driver;
     }
 
-    public Boolean checkSuccessNavToGraphics(){
+    public Boolean checkSuccessNavToGraphics() throws InterruptedException {
+        Thread.sleep(100);
         return driver.findElement(colorMatrix).isDisplayed();
     }
 }

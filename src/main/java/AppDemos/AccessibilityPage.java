@@ -10,7 +10,8 @@ public class AccessibilityPage {
         this.driver=driver;
     }
 
-    public Boolean checkSuccessNavToAccessibility(){
+    public Boolean checkSuccessNavToAccessibility() throws InterruptedException {
+        Thread.sleep(100);
         return driver.findElement(accessibilityNodeProvider).isDisplayed();
     }
 }

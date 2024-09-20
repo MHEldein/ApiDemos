@@ -11,7 +11,8 @@ public class AnimationPage {
         this.driver=driver;
     }
 
-    public Boolean checkSuccessNavToAnimation()  {
+    public Boolean checkSuccessNavToAnimation() throws InterruptedException {
+        Thread.sleep(100);
         return driver.findElement(layoutAnimation).isDisplayed();
     }
 }

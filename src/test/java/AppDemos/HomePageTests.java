@@ -14,7 +14,7 @@ public class HomePageTests extends Base {
     private MediaPage mediaPage;
 
     @Test(priority = 1)
-    public void testNavToAccessibility(){
+    public void testNavToAccessibility() throws InterruptedException {
         accessibilityPage = homePage.navToAccessibilityPage();
         assertTrue(accessibilityPage.checkSuccessNavToAccessibility());
     }
@@ -26,25 +26,25 @@ public class HomePageTests extends Base {
     }
 
     @Test(priority = 3)
-    public void testNavToApp(){
+    public void testNavToApp() throws InterruptedException {
         appPage = homePage.navToAppPage();
         appPage.checkSuccessNavToApp();
     }
 
     @Test(priority = 4)
-    public void testNavToContent(){
+    public void testNavToContent() throws InterruptedException {
         contentPage = homePage.navToContentPage();
         contentPage.checkSuccessNavToContent();
     }
 
     @Test(priority = 5)
-    public void testNavToGraphics(){
+    public void testNavToGraphics() throws InterruptedException {
         graphicsPage = homePage.navToGraphicsPage();
         graphicsPage.checkSuccessNavToGraphics();
     }
 
     @Test(priority = 6)
-    public void testNavToMedia(){
+    public void testNavToMedia() throws InterruptedException {
         mediaPage = homePage.navToMediaPage();
         mediaPage.checkSuccessNavToMedia();
     }

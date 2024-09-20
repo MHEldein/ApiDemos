@@ -13,7 +13,8 @@ public class Base {
     private AndroidDriver driver;
 
 
-    public void  configureAppium() throws MalformedURLException {
+    @BeforeMethod
+    public void  configureAppium() throws MalformedURLException, InterruptedException {
         DesiredCapabilities caps = new DesiredCapabilities();
         caps.setCapability("appium:deviceName", "Pixel8Pro");
         caps.setCapability("udid", "emulator-5554");
@@ -29,10 +30,11 @@ public class Base {
 
     }
 
-    @BeforeMethod
+    @AfterClass
     public void tearDown(){
         if (driver != null){
             driver.quit();
         }
     }
+
 }
