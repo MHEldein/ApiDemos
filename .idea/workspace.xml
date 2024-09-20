@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73a6c128-7310-4667-8e01-ec43753b8185" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/t.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AppDemos/AccessibilityPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AppDemos/AnimationPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AppDemos/AppPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AppDemos/ContentPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AppDemos/GraphicsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AppDemos/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/AppDemos/MediaPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/AppDemos/HomePageTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Base/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mL5hwAW4UkBcV1rdOCRgxjhpaP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Maven.ApiDemos [clean,install].executor": "Run",
+    "Maven.ApiDemos [install].executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG./Users/mahmoudhossam/IdeaProjects/ApiDemos/testng.xml.executor": "Run",
+    "TestNG./Users/mahmoudhossam/Library/Caches/JetBrains/IdeaIC2024.2/temp-testng-customsuite.xml.executor": "Run",
+    "TestNG.HomePageTests.anything.executor": "Run",
+    "TestNG.HomePageTests.executor": "Run",
+    "TestNG.HomePageTests.testNavToAccessibility (1).executor": "Run",
+    "TestNG.HomePageTests.testNavToAccessibility.executor": "Run",
+    "TestNG.HomePageTests.testNavToAnimation.executor": "Run",
+    "TestNG.HomePageTests.testNavToApp.executor": "Run",
+    "TestNG.HomePageTests.testNavToContent.executor": "Run",
+    "TestNG.HomePageTests.testNavToGraphics.executor": "Run",
+    "TestNG.HomePageTests.testNavToMedia.executor": "Run",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "onboarding.tips.debug.path": "/Users/mahmoudhossam/IdeaProjects/ApiDemos/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="AppDemos" />
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/mahmoudhossam/IdeaProjects/ApiDemos/testng.xml">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ApiDemos" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ApiDemos" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration type="TestNG" nameIsGenerated="true">
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTests" type="TestNG" nameIsGenerated="true">
+      <module name="ApiDemos" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AppDemos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="AppDemos" />
+      <option name="MAIN_CLASS_NAME" value="AppDemos.HomePageTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTests.testNavToContent" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiDemos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AppDemos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AppDemos" />
+      <option name="MAIN_CLASS_NAME" value="AppDemos.HomePageTests" />
+      <option name="METHOD_NAME" value="testNavToContent" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTests.testNavToGraphics" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiDemos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AppDemos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AppDemos" />
+      <option name="MAIN_CLASS_NAME" value="AppDemos.HomePageTests" />
+      <option name="METHOD_NAME" value="testNavToGraphics" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HomePageTests.testNavToMedia" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiDemos" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AppDemos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AppDemos" />
+      <option name="MAIN_CLASS_NAME" value="AppDemos.HomePageTests" />
+      <option name="METHOD_NAME" value="testNavToMedia" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/mahmoudhossam/IdeaProjects/ApiDemos/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiDemos" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/mahmoudhossam/Library/Caches/JetBrains/IdeaIC2024.2/temp-testng-customsuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ApiDemos" />
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AppDemos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="$USER_HOME$/Library/Caches/JetBrains/IdeaIC2024.2/temp-testng-customsuite.xml" />
+      <option name="PACKAGE_NAME" value="AppDemos" />
+      <option name="MAIN_CLASS_NAME" value="AppDemos.HomePageTests" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <shortenClasspath name="NONE" />
+      <useClassPathOnly />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.&lt;default&gt;" />
+      <item itemvalue="TestNG.HomePageTests" />
+      <item itemvalue="TestNG./Users/mahmoudhossam/IdeaProjects/ApiDemos/testng.xml" />
+      <item itemvalue="TestNG./Users/mahmoudhossam/Library/Caches/JetBrains/IdeaIC2024.2/temp-testng-customsuite.xml" />
+      <item itemvalue="TestNG.HomePageTests.testNavToContent" />
+      <item itemvalue="TestNG.HomePageTests.testNavToGraphics" />
+      <item itemvalue="TestNG.HomePageTests.testNavToMedia" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/mahmoudhossam/IdeaProjects/ApiDemos/testng.xml" />
+        <item itemvalue="TestNG./Users/mahmoudhossam/Library/Caches/JetBrains/IdeaIC2024.2/temp-testng-customsuite.xml" />
+        <item itemvalue="TestNG.HomePageTests.testNavToMedia" />
+        <item itemvalue="TestNG.HomePageTests.testNavToGraphics" />
+        <item itemvalue="TestNG.HomePageTests.testNavToContent" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73a6c128-7310-4667-8e01-ec43753b8185" name="Changes" comment="" />
+      <created>1726843142278</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726843142278</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/AppDemos/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
